@@ -1,0 +1,15 @@
+# Dataset folders and zip files
+Food_new.v2-allergen30.yolo26/
+Food_new.v2-allergen30.yolo26.zip
+Food_new.v2-allergen30.yolov8.zip
+baru/
+
+# Model weights
+*.pt
+
+# Training outputs (runs)
+runs/
+
+# Python cache
+__pycache__/
+*.pyc
