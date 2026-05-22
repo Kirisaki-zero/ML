@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ML">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Food_new.v2-allergen30.yolo26.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Food_new.v2-allergen30.yolov8.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
